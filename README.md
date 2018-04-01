@@ -2,7 +2,7 @@
 
 Estas configuraciones sirven para convertir un PSD de Photoshop a un Newsletter Resposivo que pase todas las pruebas de [Litmus Builder](https://litmus.com)
 
-###Ajustes de Newsletter.irs
+### Ajustes de Newsletter.irs
 
 Esta Configuración sirve para exportar de PSD a HTML. 
 Incluye el nombre de los archivos, carpeta donde se guardan los assets y el formato del HTML.
